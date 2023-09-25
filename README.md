@@ -1,5 +1,5 @@
 # electriccity_price_prediction
-# THis data is from OpenML (A worldwide machine learning lab) . In this data the price of electricity is not fixed but based on certani conditions such as demands , transfer etc. base on the given data, i have shown how to predict using these conditions as to wheteher  electricity price goes Up or Down.
+THis data is from OpenML (https://www.openml.org/) . In this data the price of electricity is not fixed but based on certani conditions such as demands , transfer etc. base on the given data, i have shown how to predict using these conditions as to wheteher  electricity price goes Up or Down.
 
 
 ==========================================================================================================================================
